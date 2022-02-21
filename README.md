@@ -3,6 +3,5 @@ Ejercicios de listas, mapas, funciones, clases y herencia
 - [ ] Ejemplos de Listas
 - [ ] Mapas
 - [ ] Funciones
-- [ ] Funciones Flecha
 - [ ] Clases
 - [ ] Herencia
